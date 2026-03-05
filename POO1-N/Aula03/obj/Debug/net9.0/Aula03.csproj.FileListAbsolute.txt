@@ -1,0 +1,14 @@
+C:\aula_de_c#\POO1-N\Aula03\bin\Debug\net9.0\Aula03.exe
+C:\aula_de_c#\POO1-N\Aula03\bin\Debug\net9.0\Aula03.deps.json
+C:\aula_de_c#\POO1-N\Aula03\bin\Debug\net9.0\Aula03.runtimeconfig.json
+C:\aula_de_c#\POO1-N\Aula03\bin\Debug\net9.0\Aula03.dll
+C:\aula_de_c#\POO1-N\Aula03\bin\Debug\net9.0\Aula03.pdb
+C:\aula_de_c#\POO1-N\Aula03\obj\Debug\net9.0\Aula03.GeneratedMSBuildEditorConfig.editorconfig
+C:\aula_de_c#\POO1-N\Aula03\obj\Debug\net9.0\Aula03.AssemblyInfoInputs.cache
+C:\aula_de_c#\POO1-N\Aula03\obj\Debug\net9.0\Aula03.AssemblyInfo.cs
+C:\aula_de_c#\POO1-N\Aula03\obj\Debug\net9.0\Aula03.csproj.CoreCompileInputs.cache
+C:\aula_de_c#\POO1-N\Aula03\obj\Debug\net9.0\Aula03.dll
+C:\aula_de_c#\POO1-N\Aula03\obj\Debug\net9.0\refint\Aula03.dll
+C:\aula_de_c#\POO1-N\Aula03\obj\Debug\net9.0\Aula03.pdb
+C:\aula_de_c#\POO1-N\Aula03\obj\Debug\net9.0\Aula03.genruntimeconfig.cache
+C:\aula_de_c#\POO1-N\Aula03\obj\Debug\net9.0\ref\Aula03.dll
