@@ -21,6 +21,10 @@ public class ContaBancaria
         _agencia = agencia;
         _estaAtiva = estaAtiva;
     }
+    public ContaBancaria()
+    {
+        
+    }
 
     public string Titular
     {

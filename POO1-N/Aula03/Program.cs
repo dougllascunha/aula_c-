@@ -1,17 +1,28 @@
 ﻿using Aula03;
 
+
 ContaCorrente c1 = new ContaCorrente();
 
-c1.Saldo = 100;
+    c1.Saldo = 20;
 
+
+
+{
+    Console.WriteLine("=====================  MENU PRINCIPAL  =====================");
+}
 try
 {
-    c1.Sacar(1500);
+    c1.Sacar(-10);
 }
-catch (SaldoInsuficienteExeption e)
+catch (SaldoInsuficienteException e)
 {
-    Console.WriteLine($"{e.Message}: {e.SaldoInsuficiente}");
+    Console.WriteLine($"{e.Message} {e.SaldoInsuficiente}");
 
+}
+
+finally
+{
+    Console.WriteLine("=====================OPERAÇÃO ENCERRADA=====================");
 }
 
 

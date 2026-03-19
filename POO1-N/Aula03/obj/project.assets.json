@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Unip\\.nuget\\packages\\": {}
+    "C:\\Users\\dougl\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Unip\\Desktop\\aula05\\POO1-N\\Aula03\\Aula03.csproj",
+      "projectUniqueName": "C:\\Users\\dougl\\Desktop\\PROGRAMAS\\aula_c_charp\\aula_c-\\POO1-N\\Aula03\\Aula03.csproj",
       "projectName": "Aula03",
-      "projectPath": "C:\\Users\\Unip\\Desktop\\aula05\\POO1-N\\Aula03\\Aula03.csproj",
-      "packagesPath": "C:\\Users\\Unip\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Unip\\Desktop\\aula05\\POO1-N\\Aula03\\obj\\",
+      "projectPath": "C:\\Users\\dougl\\Desktop\\PROGRAMAS\\aula_c_charp\\aula_c-\\POO1-N\\Aula03\\Aula03.csproj",
+      "packagesPath": "C:\\Users\\dougl\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\dougl\\Desktop\\PROGRAMAS\\aula_c_charp\\aula_c-\\POO1-N\\Aula03\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Unip\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\dougl\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\Unip\\.dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.312/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

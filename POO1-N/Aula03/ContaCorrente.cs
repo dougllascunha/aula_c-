@@ -7,13 +7,6 @@ public class ContaCorrente : ContaBancaria, IConta
     private float _taxaManutencao;
     private bool _podePedirEmprestimo;
 
-    public ContaCorrente(float taxaManutencao, bool podePedirEmprestimo, string titular, string numero, float saldo, string banco, string agencia, bool estaAtiva): base(titular, numero, saldo,banco,agencia,true)
-    {
-        _taxaManutencao = taxaManutencao;
-        _podePedirEmprestimo = podePedirEmprestimo;
-    }
-    
-
     public float TaxaManutencao
     {
         get => _taxaManutencao;
@@ -26,11 +19,20 @@ public class ContaCorrente : ContaBancaria, IConta
         set => _podePedirEmprestimo = value;
     }
 
+    public ContaCorrente(float taxaManutencao, bool podePedirEmprestimo)
+    {
+        _taxaManutencao = taxaManutencao;
+        _podePedirEmprestimo = podePedirEmprestimo;
+    }
+    public ContaCorrente()
+    {
+        
+    }
     public float Sacar(float valor)
     {
-        if (valor > Saldo || valor <= 0 )
+        if (valor > Saldo )
         {
-            throw new SaldoInsuficienteExeption("Saldo insuficiente",saldoInsuficiente: Saldo);
+            throw new SaldoInsuficienteException("Saldo insuficiente, seu saldo é : ",saldoInsuficiente:Saldo);
         }
         
         Saldo -= valor;
@@ -42,7 +44,7 @@ public class ContaCorrente : ContaBancaria, IConta
     {
         if (valor <= 0)
         {
-            //Lançar Exceção
+             throw new SaldoInsuficienteException("Deposite um Valor maior que 0 ",saldoInsuficiente:Saldo);
         }
         
         Saldo += valor;
