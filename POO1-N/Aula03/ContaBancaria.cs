@@ -12,6 +12,15 @@ public class ContaBancaria
     private string _agencia;
     private bool _estaAtiva;
 
+    public ContaBancaria(string titular, string numero, float saldo, string banco, string agencia, bool estaAtiva)
+    {
+        _titular = titular;
+        _numero = numero;
+        _saldo = saldo;
+        _banco = banco;
+        _agencia = agencia;
+        _estaAtiva = estaAtiva;
+    }
 
     public string Titular
     {

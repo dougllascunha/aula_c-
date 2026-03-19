@@ -12,3 +12,11 @@ C:\aula_de_c#\POO1-N\Aula03\obj\Debug\net9.0\refint\Aula03.dll
 C:\aula_de_c#\POO1-N\Aula03\obj\Debug\net9.0\Aula03.pdb
 C:\aula_de_c#\POO1-N\Aula03\obj\Debug\net9.0\Aula03.genruntimeconfig.cache
 C:\aula_de_c#\POO1-N\Aula03\obj\Debug\net9.0\ref\Aula03.dll
+C:\Users\Unip\Desktop\aula05\POO1-N\Aula03\obj\Debug\net9.0\Aula03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Unip\Desktop\aula05\POO1-N\Aula03\obj\Debug\net9.0\Aula03.AssemblyInfoInputs.cache
+C:\Users\Unip\Desktop\aula05\POO1-N\Aula03\obj\Debug\net9.0\Aula03.AssemblyInfo.cs
+C:\Users\Unip\Desktop\aula05\POO1-N\Aula03\obj\Debug\net9.0\Aula03.csproj.CoreCompileInputs.cache
+C:\Users\Unip\Desktop\aula05\POO1-N\Aula03\obj\Debug\net9.0\Aula03.sourcelink.json
+C:\Users\Unip\Desktop\aula05\POO1-N\Aula03\obj\Debug\net9.0\Aula03.dll
+C:\Users\Unip\Desktop\aula05\POO1-N\Aula03\obj\Debug\net9.0\refint\Aula03.dll
+C:\Users\Unip\Desktop\aula05\POO1-N\Aula03\obj\Debug\net9.0\Aula03.pdb
